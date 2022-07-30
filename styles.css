@@ -1,0 +1,37 @@
+body {
+  background-color: grey;
+
+}
+.btn {
+  margin: 20px 20px;
+  padding: 50px 50px;
+  font-size: 100px;
+}
+
+#title {
+ font-size: 100px;
+ padding: 50px 50px;
+}
+
+footer {
+   text-align: center;
+   color: #DBEDF3;
+   font-family: sans-serif;
+}
+
+.D {
+  background-image: url("img/crash.png");
+}
+.a {
+  background-image: url("img/kick.png");
+}
+
+.v{
+  background-image: url("img/snare.png");
+}
+.i{
+  background-image: url("img/tom1.png");
+}
+.d{
+  background-image: url("img/tom2.png");
+}
